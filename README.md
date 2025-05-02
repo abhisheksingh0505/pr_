@@ -62,8 +62,7 @@ pip install pandas scikit-learn matplotlib
 1. Clone this repository:
 ```bash
 git clone https://github.com/abhisheksingh0505/Iris Classification using K-Nearest Neighbors (KNN)
-cd your-repo-name
-```
+
 
 2. Launch the notebook:
 ```bash
