@@ -61,7 +61,7 @@ pip install pandas scikit-learn matplotlib
 
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/abhisheksingh0505/Iris Classification using K-Nearest Neighbors (KNN)
 cd your-repo-name
 ```
 
@@ -74,14 +74,14 @@ jupyter notebook Task6.ipynb
 
 ## 📚 Dataset Source
 
-The [Iris dataset](https://www.kaggle.com/datasets/uciml/iris) is a classic benchmark dataset in machine learning for classification tasks.
+The [Iris dataset](https://www.kaggle.com/datasets/uciml/iris)is a classic benchmark dataset in machine learning for classification tasks.
 
 ---
 
 ## 👨‍💻 Author
 
-- abhisheksingh0505
-- GitHub: ((https://github.com/abhisheksingh0505))
+- Abhishek
+- GitHub: [abhisheksingh0505](https://github.com/abhisheksingh0505)
 
 ---
 
