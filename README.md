@@ -1,4 +1,3 @@
-
 # 🌸 Iris Classification using K-Nearest Neighbors (KNN)
 
 This project demonstrates a complete pipeline for classifying Iris flower species using the K-Nearest Neighbors (KNN) algorithm. It includes preprocessing, experimentation with different `K` values, model evaluation, and decision boundary visualization.
